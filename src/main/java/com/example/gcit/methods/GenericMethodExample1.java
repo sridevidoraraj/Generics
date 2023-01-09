@@ -1,4 +1,4 @@
-package com.example.gcit;
+package com.example.gcit.methods;
 
 public class GenericMethodExample1<T> {
     private T t;

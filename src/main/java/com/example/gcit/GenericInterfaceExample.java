@@ -21,12 +21,6 @@ public class GenericInterfaceExample {
     }
 }
 
-interface MinMax<T extends Comparable<T>> {
-    T min();
-
-    T max();
-}
-
 class MinMaxImpl<T extends Comparable<T>> implements MinMax<T> {
     T[] vals;
 

@@ -1,4 +1,4 @@
-package com.example.gcit;
+package com.example.gcit.methods;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.gcit;
+package com.example.gcit.methods;
 
 public class GenericMethods {
     public static <T> boolean isEqual(GenericMethodExample1<T> g1, GenericMethodExample1<T> g2){
